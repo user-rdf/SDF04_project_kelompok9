@@ -1,6 +1,6 @@
 import unittest
 
-from utils import is_positive_quantity, is_valid_email
+from src.utils import is_positive_quantity, is_valid_email
 
 
 class ValidatorTests(unittest.TestCase):

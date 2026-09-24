@@ -1,6 +1,6 @@
 from models import Cart, Customer, Product
 from services import OrderService, PricingService
-from utils import format_currency
+from src.utils import format_currency
 
 
 def main() -> None:
